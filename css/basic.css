@@ -1,1 +1,125 @@
 /* Denna fil får du editera för att lösa uppgiften. Du får INTE ändra i html-filen. */
+body{
+    background:#faf8f2;
+    border:1px solid #786f66;
+	width:640px;
+	margin-left: auto;
+	margin-right: auto;
+}
+img{
+    float:left;
+    padding-right:5px;
+}
+a:visited,a{
+    color:#786f66;
+}
+div#topbar{
+    text-align:right;
+    color:#e8e5d1;
+    background-color:#4f463c;
+}
+div#menu{
+    background-color:#4f463c;
+}
+div#menu ul{
+    color:#dbe6c5;
+    width:500px;
+    margin-bottom:0;
+    margin-left:-30px;
+    margin-top:5px;
+    font-family:Verdana;
+    font-size:12px;
+	list-style-type: none;
+}
+div#menu ul li{
+    background-color:#786f66;
+    padding:6px 20px 6px 20px;
+    margin-right:-2px;
+	display: inline-block;
+}
+div#menu li:first-letter{
+	text-transform:capitalize;
+}
+div#menu li.active, div#menu li.active:hover{
+    background-color:#e8e5d1;
+    color:#9c808a;
+}
+div#menu li:hover{
+    background-color:#9c9084;
+}
+div#menu > a{
+    background-image:url(pics/coffey.jpg);
+    display:block;
+    -webkit-background-size:    cover;
+    -moz-background-size:       cover;
+    -o-background-size:         cover;
+    background-size:            cover;
+    height:212px;
+    
+    /*Removes the text*/
+    text-indent: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+}
+div#menu a{
+    text-decoration:none;
+    color:#dbe6c5;
+}
+div#menu li.active a{
+    color:#9c808a;
+}
+div#content{
+    color:#786f66;
+    background-color:#e8e5d1;
+    overflow:none;
+}
+div#maincontent{
+    color:#786f66;
+    width:400px;
+    float:left;
+    padding-left:7px;
+    font-size:15px;
+    font-family:Verdana;
+    line-height:20px;
+    font-weight:400;
+}
+div#subcontent{
+    border-left:1px dashed #786f66;
+    width:200px;
+    height:300px;
+    float:right;
+    padding-left:5px;
+    padding-right:20px;
+    font-size:12px;
+    margin-top:20px;
+    font-family:Verdana;
+}
+div#subcontent ul{
+    list-style:none;
+    margin-left:-35px;
+    margin-top:-10px;
+}
+div#subcontent h1{
+    margin-left:5px;
+    font-size:14px;
+    font-weight:600;
+}
+div#subcontent h2{
+    margin-top:25px;
+    margin-left:5px;
+    font-size:14px;
+    font-weight:400;
+    font-family:Times New Roman;
+}
+div#subcontent p{
+    margin-left:5px;
+    font-size:80%;
+    line-height:18px;
+}
+div#bottomcontent{
+    width:400px;
+    font-size:10px;
+    padding-left:5px;
+    padding-bottom:15px;
+    padding-top:0;
+}
