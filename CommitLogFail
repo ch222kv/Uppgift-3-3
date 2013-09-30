@@ -1,0 +1,65 @@
+commit 8a75fcf467424a3bbf486e27d8e050d48b2a21da
+Author: OpenShift guest <ch222kv@student.lnu.se>
+Date:   Mon Sep 30 07:32:56 2013 -0400
+commit 8a75fcf467424a3bbf486e27d8e050d48b2a21da
+Author: OpenShift guest <ch222kv@student.lnu.se>
+Date:   Mon Sep 30 07:32:56 2013 -0400
+commit 8a75fcf467424a3bbf486e27d8e050d48b2a21da
+Author: OpenShift guest <ch222kv@student.lnu.se>
+Date:   Mon Sep 30 07:32:56 2013 -0400
+commit 8a75fcf467424a3bbf486e27d8e050d48b2a21da
+Author: OpenShift guest <ch222kv@student.lnu.se>
+Date:   Mon Sep 30 07:32:56 2013 -0400
+commit 8a75fcf467424a3bbf486e27d8e050d48b2a21da
+Author: OpenShift guest <ch222kv@student.lnu.se>
+Date:   Mon Sep 30 07:32:56 2013 -0400
+
+    Removed 2px of space between the menu items
+
+commit 9023754f81c1d83ae4765347a0575cf0e5836fa3
+Author: OpenShift guest <ch222kv@student.lnu.se>
+Date:   Mon Sep 30 07:29:30 2013 -0400
+
+    Done with the color
+
+commit b253aa2e219fc3ea439534cc334527de1d324247
+Author: OpenShift guest <ch222kv@student.lnu.se>
+Date:   Mon Sep 30 07:26:35 2013 -0400
+
+    Basic coloring
+
+commit d21a9e0b827c09d6623ce239e83967e2ed822cbb
+Author: OpenShift guest <ch222kv@student.lnu.se>
+Date:   Mon Sep 30 07:09:40 2013 -0400
+
+    Margin and padding on the right hand side
+
+commit 7c2af5779d32ff6a02a5c8e0ca5c5adb0ba17966
+Author: OpenShift guest <ch222kv@student.lnu.se>
+Date:   Mon Sep 30 07:03:39 2013 -0400
+
+    Ive forgotten to commit. Messing around with the subcontent window to make it look good
+
+commit d0e570c073b5bf97075fe7bf01368c5016adea7e
+Author: OpenShift guest <ch222kv@student.lnu.se>
+Date:   Mon Sep 30 06:20:38 2013 -0400
+
+    The quote at the top now aligns to the right
+
+commit cd333fcb628235164eaf4d0063a39cfe848f7c22
+Author: OpenShift guest <ch222kv@student.lnu.se>
+Date:   Mon Sep 30 06:17:59 2013 -0400
+
+    Now the menu items displays as blocks in different colors and the Read more section dont
+
+commit 902a24f217e37e8a2f4abb68d6e9ea2346157ca8
+Author: OpenShift guest <ch222kv@student.lnu.se>
+Date:   Mon Sep 30 06:10:05 2013 -0400
+
+    The navbar is not capitalized on the first letter, stupid inline-blocks
+
+commit 7558d6544880bd39ea77f02eafbe99ba01a5a6b0
+Author: OpenShift guest <ch222kv@student.lnu.se>
+Date:   Mon Sep 30 06:09:18 2013 -0400
+
+    Centering and width
