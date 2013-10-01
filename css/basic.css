@@ -32,10 +32,13 @@ div#menu ul{
 	list-style-type: none;
 }
 div#menu ul li{
+    padding:6px 0 6px 0;
     background-color:#786f66;
-    padding:6px 20px 6px 20px;
     margin-right:-2px;
 	display: inline-block;
+}
+#menu ul li a{
+    padding:6px 20px 6px 20px;
 }
 div#menu li:first-letter{
 	text-transform:capitalize;
